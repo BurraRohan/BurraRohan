@@ -24,5 +24,3 @@ I'm a passionate full-stack developer specializing in Python, machine learning, 
 Will update Soon!!
 
 ---
-
-⭐️ From Rohan Burra (https://github.com/BurraRohan)
