@@ -17,7 +17,7 @@ I'm a passionate full-stack developer specializing in Python, machine learning, 
 - **Databases**: MySQL, PostgreSQL
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohan-burra-5a8963285)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-burra-5a8963285/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LORDMEME2891081)
 
 ## 📂 Featured Projects
