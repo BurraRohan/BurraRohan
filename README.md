@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rohan Burra!
 
-<!--
-**BurraRohan/BurraRohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer specializing in Python, machine learning, and cloud technologies. I enjoy building intelligent, data-driven applications and delivering scalable web solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Full-stack developer with experience in machine learning and cloud computing.
+- 🌱 Currently learning advanced techniques in deep learning and distributed systems.
+- 🔭 Working on improving my machine learning coding techniques with AI integration.
+- 📚 Passionate about sharing knowledge through open-source projects.
+- 👯 Looking to collaborate on innovative projects in AI, machine learning and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript, HTML/CSS
+- **Frameworks/Libraries**: Flask, Django, React, Bootstrap
+- **Machine Learning**: Scikit-Learn, TensorFlow, Pandas
+- **Cloud Services**: Google Cloud Platform
+- **Databases**: MySQL, PostgreSQL
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohan-burra-5a8963285)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LORDMEME2891081)
+
+## 📂 Featured Projects
+Will update Soon!!
+
+---
+
+⭐️ From Rohan Burra (https://github.com/BurraRohan)
