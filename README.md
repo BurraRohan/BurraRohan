@@ -12,7 +12,7 @@ I'm a passionate full-stack developer specializing in Python, machine learning, 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, HTML/CSS
 - **Frameworks/Libraries**: Django, React, Bootstrap
-- **Machine Learning**: Scikit-Learn, TensorFlow, Pandas
+- **Machine Learning**: Scikit-Learn, TensorFlow, Pandas, PyTorch
 - **Cloud Services**: Google Cloud Platform
 - **Databases**: MySQL, PostgreSQL
 
