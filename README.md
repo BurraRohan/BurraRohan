@@ -33,6 +33,8 @@ Final year CS student at SRMIST (CGPA: 9.54) — open to AI/ML engineering colla
   <img src="https://streak-stats.demolab.com/?user=BurraRohan&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </a>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurraRohan&theme=github_dark" alt="Top Languages"/>
+
 ---
 
 ## 🌐 Connect with Me
