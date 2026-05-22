@@ -1,4 +1,4 @@
-#👋 Hi there, I'm Rohan Burra!
+👋 Hi there, I'm Rohan Burra!
 
 Building production-grade agentic AI systems with LangChain, LangGraph, and FastAPI.
 Final year CS student at SRMIST (CGPA: 9.54) — open to AI/ML engineering collabs.
