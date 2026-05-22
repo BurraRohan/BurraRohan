@@ -1,23 +1,30 @@
-# 👋 Hi there, I'm Rohan Burra!
+#👋 Hi there, I'm Rohan Burra!
 
-I'm a passionate full-stack developer specializing in Python, machine learning, and cloud technologies. I enjoy building intelligent, data-driven applications and delivering scalable web solutions.
+Building production-grade agentic AI systems with LangChain, LangGraph, and FastAPI.
+Final year CS student at SRMIST (CGPA: 9.54) — open to AI/ML engineering collabs.
 
 ## 🚀 About Me
-- 💻 Full-stack developer with experience in machine learning and cloud computing.
-- 🌱 Currently learning advanced techniques in deep learning and distributed systems.
-- 🔭 Working on improving my machine learning coding techniques with AI integration.
-- 📚 Passionate about sharing knowledge through open-source projects.
-- 👯 Looking to collaborate on innovative projects in AI, machine learning and web development.
+
+- 🤖 Building multi-agent LLM systems with LangChain & LangGraph
+- ☁️ Deploying on AWS with Docker, GitHub Actions CI/CD & Prometheus monitoring
+- 🔗 Completed MCP Advanced Topics — Anthropic (Apr 2026)
+- 🌱 Exploring agentic AI architectures and cloud-native ML deployment
+- 🤝 Open to collabs on AI/ML and agentic systems
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks/Libraries**: Django, React, Bootstrap
-- **Machine Learning**: Scikit-Learn, TensorFlow, Pandas, PyTorch
-- **Cloud Services**: Google Cloud Platform, Amazon AWS
-- **Databases**: MySQL, PostgreSQL
+
+- **AI/ML:** LangChain · LangGraph · FastAPI · TensorFlow · PyTorch · Scikit-Learn
+- **Languages:** Python · JavaScript · HTML/CSS
+- **Cloud:** AWS · Google Cloud Platform
+- **Infra:** Docker · GitHub Actions · Prometheus
+- **Databases:** MySQL · PostgreSQL
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BurraRohan&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BurraRohan&layout=compact&theme=dark)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-burra-5a8963285/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/LORDMEME2891081)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rohanburra)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x)](https://twitter.com/LORDMEME2891081)
