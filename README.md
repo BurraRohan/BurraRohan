@@ -33,7 +33,7 @@ Final year CS student at SRMIS — open to AI/ML engineering collabs.
   <img src="https://streak-stats.demolab.com/?user=BurraRohan&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BurraRohan&theme=github_dark" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurraRohan&theme=github-compact" alt="Activity Graph"/>
 
 ---
 
