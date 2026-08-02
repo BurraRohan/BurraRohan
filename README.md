@@ -33,7 +33,7 @@ Final year CS student at SRMIS — open to AI/ML engineering collabs.
   <img src="https://streak-stats.demolab.com/?user=BurraRohan&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </a>
 
-## 🌌 3D Contribution Graph
+## 🌌 Code Topography
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
