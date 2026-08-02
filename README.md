@@ -35,7 +35,7 @@ Final year CS student at SRMIS — open to AI/ML engineering collabs.
 
 ## 🌌 Code Topography
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![Code Topography](./profile-3d-contrib/profile-night-green.svg)
 
 ---
 
