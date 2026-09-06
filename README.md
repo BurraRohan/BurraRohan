@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rohan Burra!
 
 Building production-grade agentic AI systems with LangChain, LangGraph, and FastAPI.
-Final year CS student at SRMIS — open to AI/ML engineering collabs.
+Final year CS student at SRMIST — open to AI/ML engineering collabs.
 
 ---
 
